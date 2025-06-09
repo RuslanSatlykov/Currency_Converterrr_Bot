@@ -39,7 +39,7 @@
 * Библиотека `telebot`
 * Библиотека `python-telegram-bot`
 * Библиотека `requests`
-* `Библиотека `nest_asyncio`
+* Библиотека `nest_asyncio`
   
 ## ⏬ Установка на локальном компьютере
 
